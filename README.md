@@ -3,7 +3,12 @@
 # westeros-weather
 Live weather of Westeros
 
-# Run server
+# Run backend server
 ```
 ./gradlew bootRun
+```
+
+# Run frontend client
+```
+ng serve
 ```
